@@ -10,5 +10,4 @@ A simple C# console application that counts how many **different odd numbers** a
 ```csharp
 int[] numbers = { 1, 3, 3, 4, 5, 5, 7 };
 
-**Output**
-Unique odd numbers: 4
+
